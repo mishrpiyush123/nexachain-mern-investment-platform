@@ -54,3 +54,4 @@ Create Withdrawal Request
 4. MongoDB is the primary database.
 5. Each user has a unique referral code.
 6. The admin dashboard is intended for authorized admin users.
+## Frontend source code is located inside backend/frontend directory.
